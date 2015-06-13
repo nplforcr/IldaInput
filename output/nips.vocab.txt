@@ -1,0 +1,2269 @@
+I = 0 = 516 100
+they = 1 = 182 74
+he = 2 = 174 58
+his = 3 = 131 48
+their = 4 = 127 63
+you = 5 = 125 57
+who = 6 = 123 66
+we = 7 = 86 49
+my = 8 = 84 41
+people = 9 = 66 43
+our = 10 = 62 32
+her = 11 = 61 19
+Auburn = 12 = 58 7
+me = 13 = 58 32
+company = 14 = 48 21
+she = 15 = 46 16
+them = 16 = 45 28
+it = 17 = 45 27
+one = 18 = 44 35
+He = 19 = 44 23
+that = 20 = 41 28
+him = 21 = 41 22
+your = 22 = 38 28
+You = 23 = 35 27
+companies = 24 = 34 18
+They = 25 = 32 25
+We = 26 = 29 19
+Byrne = 27 = 29 26
+country = 28 = 28 19
+state = 29 = 27 18
+government = 30 = 27 12
+which = 31 = 26 19
+team = 32 = 26 12
+gun = 33 = 26 9
+us = 34 = 26 19
+Virginia = 35 = 24 14
+Mexico = 36 = 23 2
+U.N = 37 = 21 1
+Bush = 38 = 21 9
+CEO = 39 = 21 5
+anyone = 40 = 20 17
+Scott = 41 = 20 19
+U.S = 42 = 19 14
+weapons = 43 = 19 9
+United States = 44 = 19 8
+American = 45 = 19 11
+Iraq = 46 = 19 7
+its = 47 = 18 15
+teams = 48 = 18 6
+group = 49 = 18 9
+someone = 50 = 17 17
+Arafat = 51 = 17 3
+Starbucks = 52 = 17 1
+where = 53 = 16 11
+world = 54 = 16 11
+terrorist = 55 = 16 5
+president = 56 = 15 9
+officials = 57 = 15 9
+police = 58 = 15 7
+SEC = 59 = 15 8
+everyone = 60 = 15 13
+leaders = 61 = 15 8
+President = 62 = 14 11
+car = 63 = 14 9
+Mexican = 64 = 14 1
+Alabama = 65 = 14 6
+Japanese = 66 = 14 2
+business = 67 = 13 8
+She = 68 = 13 10
+home = 69 = 13 10
+wife = 70 = 13 10
+man = 71 = 13 11
+UGA = 72 = 12 3
+Will Vehrs = 73 = 12 10
+family = 74 = 12 9
+guy = 75 = 12 9
+prison = 76 = 12 5
+military = 77 = 12 7
+authorities = 78 = 11 5
+court = 79 = 11 7
+employees = 80 = 11 9
+terrorists = 81 = 11 5
+My = 82 = 11 9
+US = 83 = 11 8
+states = 84 = 11 6
+Americans = 85 = 11 7
+person = 86 = 11 9
+house = 87 = 11 9
+Hezbollah = 88 = 11 1
+members = 89 = 11 9
+those = 90 = 11 9
+place = 91 = 11 6
+Gilmore = 92 = 11 1
+industry = 93 = 10 6
+leader = 94 = 10 5
+students = 95 = 10 2
+owners = 96 = 10 6
+investors = 97 = 10 7
+House = 98 = 10 4
+Governor = 99 = 10 6
+China = 100 = 10 6
+Annan = 101 = 10 1
+Secretary = 102 = 10 6
+Georgia = 103 = 10 6
+Palestinian = 104 = 10 4
+European = 105 = 10 2
+woman = 106 = 10 5
+Deputy = 107 = 10 1
+women = 108 = 10 9
+areas = 109 = 9 6
+here = 110 = 9 4
+Bama = 111 = 9 3
+friends = 112 = 9 8
+Iraqi = 113 = 9 6
+officers = 114 = 9 5
+shareholders = 115 = 9 7
+organization = 116 = 9 6
+girls = 117 = 9 3
+firms = 118 = 9 3
+aircraft = 119 = 9 2
+Navy = 120 = 9 1
+Curt = 121 = 9 9
+guns = 122 = 9 6
+California = 123 = 9 4
+NHL = 124 = 9 1
+players = 125 = 9 7
+Russian = 126 = 9 8
+student = 127 = 9 3
+Kilgore = 128 = 9 3
+s = 129 = 8 6
+cars = 130 = 8 5
+TIME = 131 = 8 1
+guys = 132 = 8 6
+soldiers = 133 = 8 4
+parties = 134 = 8 6
+SWAM = 135 = 8 1
+Werkheiser = 136 = 8 1
+themselves = 137 = 8 7
+Fallujah = 138 = 8 2
+groups = 139 = 8 6
+office = 140 = 8 5
+party = 141 = 8 3
+immigrants = 142 = 8 1
+Mark Backer = 143 = 8 8
+Paul = 144 = 8 4
+Iraqis = 145 = 8 4
+citizens = 146 = 8 6
+Israeli = 147 = 8 4
+Russia = 148 = 8 6
+Army = 149 = 8 2
+nation = 150 = 8 7
+State = 151 = 8 8
+himself = 152 = 8 8
+Baghdad = 153 = 7 2
+station = 154 = 7 2
+room = 155 = 7 4
+child = 156 = 7 3
+many = 157 = 7 7
+some = 158 = 7 6
+Associated Press = 159 = 7 7
+Democrats = 160 = 7 5
+media = 161 = 7 6
+Giant = 162 = 7 1
+Senate = 163 = 7 4
+firm = 164 = 7 6
+area = 165 = 7 4
+Warner = 166 = 7 3
+Oklahoma = 167 = 7 3
+French = 168 = 7 2
+member = 169 = 7 6
+Florida = 170 = 7 4
+planes = 171 = 7 1
+His = 172 = 7 7
+Marines = 173 = 7 3
+schools = 174 = 7 3
+stores = 175 = 7 5
+March = 176 = 7 1
+all = 177 = 7 7
+school = 178 = 7 6
+John A = 179 = 7 7
+USC = 180 = 7 4
+Europe = 181 = 6 3
+civilian = 182 = 6 5
+Chichester = 183 = 6 3
+reporter = 184 = 6 3
+Will = 185 = 6 6
+vehicle = 186 = 6 4
+Black = 187 = 6 2
+VDOT = 188 = 6 1
+Government = 189 = 6 3
+Darius = 190 = 6 1
+Planned Parenthood = 191 = 6 3
+mall = 192 = 6 2
+head = 193 = 6 6
+town = 194 = 6 4
+administration = 195 = 6 5
+Richmond = 196 = 6 4
+Jim Bacon = 197 = 6 6
+Anabella = 198 = 6 1
+society = 199 = 6 5
+Shaq = 200 = 6 1
+league = 201 = 6 3
+mother = 202 = 6 2
+coach = 203 = 6 4
+Our = 204 = 6 5
+conference = 205 = 6 2
+soldier = 206 = 6 4
+Congress = 207 = 6 4
+Fass = 208 = 6 1
+Allen = 209 = 6 3
+Yukos = 210 = 6 6
+Mr = 211 = 6 4
+force = 212 = 6 4
+It = 213 = 6 5
+percent = 214 = 6 2
+Barghouti = 215 = 6 1
+submarines = 216 = 6 1
+Israel = 217 = 6 3
+store = 218 = 6 4
+Phil Rodokanakis = 219 = 6 4
+forces = 220 = 6 4
+men = 221 = 6 5
+Oahu = 222 = 6 1
+laser = 223 = 6 1
+NBC = 224 = 6 1
+suspect = 225 = 6 2
+two = 226 = 6 6
+field = 227 = 6 4
+Mischie = 228 = 6 1
+Ferguson = 229 = 6 1
+other = 230 = 6 5
+competitors = 231 = 5 4
+Agent = 232 = 5 1
+fan = 233 = 5 3
+Sistani = 234 = 5 1
+Blockbuster = 235 = 5 3
+Oracle = 236 = 5 1
+Republican = 237 = 5 5
+teacher = 238 = 5 2
+community = 239 = 5 3
+Rwanda = 240 = 5 1
+opponent = 241 = 5 3
+Pearl Harbor = 242 = 5 1
+Who = 243 = 5 3
+body = 244 = 5 3
+executive = 245 = 5 4
+employee = 246 = 5 4
+Perez = 247 = 5 1
+official = 248 = 5 4
+daughter = 249 = 5 4
+voters = 250 = 5 3
+candidate = 251 = 5 3
+insurgents = 252 = 5 2
+Kaine = 253 = 5 2
+criminal = 254 = 5 4
+others = 255 = 5 4
+minister = 256 = 5 4
+director = 257 = 5 3
+program = 258 = 5 3
+rest = 259 = 5 5
+fans = 260 = 5 5
+families = 261 = 5 5
+folks = 262 = 5 4
+there = 263 = 5 5
+itself = 264 = 5 5
+Del = 265 = 5 3
+liberals = 266 = 5 5
+New York = 267 = 5 2
+Hollywood = 268 = 5 3
+troops = 269 = 5 3
+countries = 270 = 5 4
+Barnie Day = 271 = 5 4
+baby = 272 = 5 3
+children = 273 = 5 4
+Japan = 274 = 5 3
+rifle = 275 = 5 2
+Rodarte = 276 = 5 1
+Palestinians = 277 = 5 3
+Kobe = 278 = 5 1
+board = 279 = 5 3
+Marsh = 280 = 5 1
+human = 281 = 5 4
+Palestinian Authority = 282 = 5 2
+firearms = 283 = 5 3
+Lebanon = 284 = 5 1
+kids = 285 = 5 5
+killer = 286 = 5 2
+Peterson = 287 = 5 2
+city = 288 = 5 4
+center = 289 = 5 1
+vehicles = 290 = 5 2
+civilians = 291 = 5 4
+girl = 292 = 5 4
+Rumsfeld = 293 = 4 1
+governorate = 294 = 4 1
+D = 295 = 4 3
+Tuberville = 296 = 4 3
+Peoplesoft = 297 = 4 1
+airfields = 298 = 4 1
+Syria = 299 = 4 2
+Britain = 300 = 4 2
+Republicans = 301 = 4 4
+BCS = 302 = 4 3
+candidates = 303 = 4 3
+Jim = 304 = 4 3
+Anbar = 305 = 4 1
+executives = 306 = 4 4
+myself = 307 = 4 4
+residents = 308 = 4 3
+casinos = 309 = 4 2
+missile = 310 = 4 1
+Stinnett = 311 = 4 1
+everybody = 312 = 4 3
+Gazprom = 313 = 4 2
+Their = 314 = 4 4
+Germany = 315 = 4 2
+Suha = 316 = 4 1
+France = 317 = 4 2
+Montgomery = 318 = 4 1
+Michelle Malkin = 319 = 4 4
+WalMart = 320 = 4 2
+gunman = 321 = 4 1
+carriers = 322 = 4 3
+diplomat = 323 = 4 1
+Hassan = 324 = 4 1
+three = 325 = 4 4
+PSD = 326 = 4 1
+backs = 327 = 4 1
+Los Angeles County = 328 = 4 1
+Nazis = 329 = 4 1
+Europeans = 330 = 4 2
+lobby = 331 = 4 2
+San Francisco = 332 = 4 2
+owner = 333 = 4 4
+Colorado = 334 = 4 2
+politicians = 335 = 4 2
+airports = 336 = 4 3
+Cisco = 337 = 4 2
+whose = 338 = 4 4
+Granville = 339 = 4 1
+managers = 340 = 4 3
+Barnie = 341 = 4 3
+grandmother = 342 = 4 2
+Attorney = 343 = 4 3
+college = 344 = 4 4
+airlines = 345 = 4 3
+hospital = 346 = 4 3
+organizations = 347 = 4 4
+player = 348 = 4 3
+Movie Gallery = 349 = 4 2
+husband = 350 = 4 3
+Nortel = 351 = 4 1
+plane = 352 = 4 3
+FBI = 353 = 4 1
+analysts = 354 = 4 1
+Supreme Court = 355 = 4 2
+NPR = 356 = 4 2
+businesses = 357 = 4 4
+defense = 358 = 4 3
+shareholder = 359 = 4 3
+handgun = 360 = 4 4
+Google = 361 = 4 2
+governor = 362 = 4 3
+Arab = 363 = 4 3
+Companies = 364 = 4 2
+campaign = 365 = 4 2
+Senator = 366 = 4 2
+crowd = 367 = 4 2
+Mrs = 368 = 4 1
+That = 369 = 3 3
+H = 370 = 3 1
+guard = 371 = 3 1
+African-American = 372 = 3 1
+lawyers = 373 = 3 3
+consumer = 374 = 3 3
+personnel = 375 = 3 2
+Admiral = 376 = 3 1
+Albo = 377 = 3 1
+Mahmoud Abbas = 378 = 3 3
+AK-47 = 379 = 3 2
+road = 380 = 3 3
+Tim Kaine = 381 = 3 2
+analyst = 382 = 3 2
+consumers = 383 = 3 2
+chairman = 384 = 3 2
+press = 385 = 3 2
+Irwindale = 386 = 3 1
+jail = 387 = 3 2
+Carly = 388 = 3 1
+Ebbin = 389 = 3 1
+Anonymous = 390 = 3 3
+Armando Garcia = 391 = 3 1
+scumbag = 392 = 3 3
+muckdog = 393 = 3 3
+guards = 394 = 3 1
+battleships = 395 = 3 1
+chain = 396 = 3 1
+brother = 397 = 3 2
+Merck = 398 = 3 1
+chief = 399 = 3 2
+Ask Jeeves = 400 = 3 2
+America = 401 = 3 3
+target = 402 = 3 3
+George Fitch = 403 = 3 1
+Net Impact = 404 = 3 1
+traveler = 405 = 3 1
+NASDAQ = 406 = 3 1
+airliners = 407 = 3 1
+banks = 408 = 3 2
+Italy = 409 = 3 2
+sides = 410 = 3 3
+Vazquez-Mendoza = 411 = 3 1
+son = 412 = 3 2
+it's = 413 = 3 3
+Krispy Kreme = 414 = 3 3
+Shi'ite Islamic = 415 = 3 1
+Democratic Party = 416 = 3 2
+audience = 417 = 3 3
+commander = 418 = 3 3
+lasers = 419 = 3 1
+own = 420 = 3 3
+Willmon = 421 = 3 1
+SKS = 422 = 3 1
+Washington = 423 = 3 2
+receivers = 424 = 3 3
+minority = 425 = 3 2
+facility = 426 = 3 2
+Rep = 427 = 3 2
+Tugle = 428 = 3 1
+CNN = 429 = 3 2
+farmer = 430 = 3 1
+Jason Campbell = 431 = 3 2
+judge = 432 = 3 3
+Chap Peterson = 433 = 3 1
+friend = 434 = 3 2
+coast = 435 = 3 3
+Mark = 436 = 3 2
+officer = 437 = 3 2
+policemen = 438 = 3 3
+West Bank = 439 = 3 1
+Schrenko = 440 = 3 1
+herself = 441 = 3 2
+vet = 442 = 3 1
+Prof = 443 = 3 1
+public = 444 = 3 3
+client = 445 = 3 2
+AD = 446 = 3 2
+David March = 447 = 3 1
+Pittsburgh = 448 = 3 2
+ammunition = 449 = 3 2
+Hawaii = 450 = 3 2
+torpedo = 451 = 3 1
+Lt = 452 = 3 1
+airline = 453 = 3 2
+Fasulo = 454 = 3 1
+Andy = 455 = 3 1
+Her = 456 = 3 3
+remainder = 457 = 3 2
+Fairfax County = 458 = 3 1
+Howard Dean = 459 = 3 2
+Anyone = 460 = 3 3
+streets = 461 = 3 3
+Zarqawi = 462 = 3 1
+politician = 463 = 3 3
+customer = 464 = 3 3
+Everyone = 465 = 3 3
+Netflix = 466 = 3 1
+south = 467 = 3 3
+QB = 468 = 3 3
+Mark Warner = 469 = 3 3
+Wilder = 470 = 3 2
+Democrat = 471 = 3 2
+contributors = 472 = 3 3
+reporters = 473 = 3 3
+P.L.O = 474 = 3 1
+Gov = 475 = 3 3
+university = 476 = 3 2
+Jews = 477 = 3 1
+informant = 478 = 3 1
+God = 479 = 3 3
+Shi'ite = 480 = 3 1
+clients = 481 = 3 2
+militant = 482 = 3 3
+Sabato = 483 = 3 1
+Fortune = 484 = 3 2
+successors = 485 = 3 2
+deck = 486 = 3 1
+Jerry Kilgore = 487 = 3 2
+eBay = 488 = 3 2
+enforcement = 489 = 3 2
+Ohio State = 490 = 3 1
+NFL = 491 = 3 2
+Thompson = 492 = 3 1
+committee = 493 = 3 3
+crew = 494 = 3 2
+House of Delegates = 495 = 3 3
+Packers = 496 = 3 1
+homes = 497 = 3 2
+Delegates = 498 = 3 2
+highway = 499 = 3 3
+territories = 500 = 3 2
+Putin = 501 = 3 3
+Rwandan = 502 = 3 1
+Lt. Governor = 503 = 3 1
+Bloglines = 504 = 3 2
+Canada = 505 = 3 2
+weapon = 506 = 3 3
+Iran = 507 = 3 1
+half = 508 = 3 3
+Christian = 509 = 3 2
+Garcia = 510 = 3 1
+courts = 511 = 3 3
+holders = 512 = 3 3
+Yates = 513 = 3 1
+insurgent = 514 = 3 2
+shop = 515 = 3 2
+Seattle = 516 = 3 1
+agents = 517 = 3 2
+outsider = 518 = 3 2
+Pharris = 519 = 3 1
+UVA = 520 = 3 1
+casualties = 521 = 2 2
+Tony Blair = 522 = 2 2
+Basrah = 523 = 2 2
+generation = 524 = 2 2
+SCIRI = 525 = 2 1
+armies = 526 = 2 2
+somebody = 527 = 2 2
+truck = 528 = 2 2
+R = 529 = 2 2
+Manning = 530 = 2 1
+Mel Karmazin = 531 = 2 1
+Ukrops = 532 = 2 1
+loonies = 533 = 2 2
+Fed = 534 = 2 1
+rivals = 535 = 2 2
+beams = 536 = 2 1
+entity = 537 = 2 2
+observers = 538 = 2 2
+capital = 539 = 2 2
+Loudoun = 540 = 2 1
+trainer = 541 = 2 1
+Your = 542 = 2 2
+population = 543 = 2 2
+Leslie Byrne = 544 = 2 1
+colleague = 545 = 2 2
+peers = 546 = 2 1
+border = 547 = 2 1
+Virginia Tech = 548 = 2 2
+Romania = 549 = 2 1
+courthouse = 550 = 2 2
+boys = 551 = 2 1
+pilots = 552 = 2 1
+writer = 553 = 2 1
+DMBE = 554 = 2 1
+Wilson = 555 = 2 1
+PacificFleet = 556 = 2 1
+spokesman = 557 = 2 1
+ours = 558 = 2 2
+Students for Responsible Business = 559 = 2 1
+Hamas = 560 = 2 1
+Christians = 561 = 2 1
+system = 562 = 2 2
+Court = 563 = 2 2
+nut = 564 = 2 2
+Caliph = 565 = 2 1
+brigades = 566 = 2 2
+Media = 567 = 2 2
+UVA-Wise = 568 = 2 1
+Iliescu = 569 = 2 1
+Sen = 570 = 2 2
+Richmond Free Press = 571 = 2 1
+adult = 572 = 2 1
+Wall Street Journal = 573 = 2 2
+sons = 574 = 2 2
+People = 575 = 2 1
+Some = 576 = 2 2
+sheriff = 577 = 2 1
+exchange = 578 = 2 1
+AIG = 579 = 2 1
+MSNBC = 580 = 2 2
+district = 581 = 2 1
+dredge = 582 = 2 1
+British = 583 = 2 1
+Plains = 584 = 2 2
+chair = 585 = 2 2
+underdog = 586 = 2 2
+Ohio = 587 = 2 2
+agencies = 588 = 2 2
+Hawaiian = 589 = 2 1
+David Greene = 590 = 2 1
+donors = 591 = 2 2
+Netherlands = 592 = 2 2
+Ibrahim Al-Ja'fari = 593 = 2 2
+West = 594 = 2 2
+workforce = 595 = 2 2
+kid = 596 = 2 2
+number = 597 = 2 2
+Hewlett-Packard = 598 = 2 2
+chiefs = 599 = 2 2
+Southwest = 600 = 2 2
+Commander = 601 = 2 1
+vendors = 602 = 2 2
+challengers = 603 = 2 1
+Flames = 604 = 2 1
+Atlanta = 605 = 2 2
+Boston = 606 = 2 2
+lawmakers = 607 = 2 2
+Muhammed = 608 = 2 1
+Indiana = 609 = 2 2
+Steve Jobs = 610 = 2 1
+PLO = 611 = 2 1
+Bryant = 612 = 2 1
+manager = 613 = 2 2
+stations = 614 = 2 2
+Islamic = 615 = 2 1
+anybody = 616 = 2 2
+Machinist = 617 = 2 1
+gay = 618 = 2 1
+Supervisor = 619 = 2 2
+murderer = 620 = 2 2
+subject = 621 = 2 2
+Congressman = 622 = 2 1
+shipmates = 623 = 2 1
+masses = 624 = 2 1
+supporters = 625 = 2 2
+DEA = 626 = 2 1
+backfield = 627 = 2 1
+NCAA = 628 = 2 2
+Maryland = 629 = 2 2
+sympathizers = 630 = 2 2
+Brazilian = 631 = 2 1
+embodiment = 632 = 2 2
+Kan = 633 = 2 1
+ESPN = 634 = 2 2
+army = 635 = 2 1
+staff = 636 = 2 1
+worst = 637 = 2 2
+Harris Teeter = 638 = 2 1
+Chuck Robb = 639 = 2 1
+Maxima = 640 = 2 1
+Martha Stewart Living = 641 = 2 1
+Washington, D.C = 642 = 2 1
+competitor = 643 = 2 2
+both = 644 = 2 2
+Alan Greenspan = 645 = 2 1
+Karmazin = 646 = 2 1
+White House = 647 = 2 1
+Yahoo = 648 = 2 1
+Minister = 649 = 2 2
+Home Office = 650 = 2 1
+Marwan Barghouti = 651 = 2 1
+waste = 652 = 2 2
+comrade = 653 = 2 1
+Sacramento = 654 = 2 2
+journalist = 655 = 2 2
+airplane = 656 = 2 2
+Vasquez = 657 = 2 1
+D.C = 658 = 2 1
+Police = 659 = 2 2
+One = 660 = 2 2
+democrats = 661 = 2 2
+sector = 662 = 2 2
+Mylan = 663 = 2 1
+Jaguars = 664 = 2 1
+turret = 665 = 2 1
+campuses = 666 = 2 1
+global = 667 = 2 1
+clerk = 668 = 2 2
+management = 669 = 2 2
+Armstrong = 670 = 2 2
+coalition = 671 = 2 2
+domestic = 672 = 2 1
+Virginians = 673 = 2 2
+EU = 674 = 2 2
+neighbors = 675 = 2 2
+faculty = 676 = 2 2
+rival = 677 = 2 2
+GA = 678 = 2 2
+authority = 679 = 2 2
+Tressel = 680 = 2 1
+base = 681 = 2 2
+GM = 682 = 2 2
+tank = 683 = 2 1
+US Airway = 684 = 2 1
+membership = 685 = 2 1
+males = 686 = 2 1
+DB = 687 = 2 2
+mullahs = 688 = 2 1
+Ted Turner = 689 = 2 1
+thirdworld = 690 = 2 2
+Greenspan = 691 = 2 1
+compartment = 692 = 2 1
+Ms = 693 = 2 2
+OU = 694 = 2 1
+master = 695 = 2 2
+HP = 696 = 2 1
+neighbor = 697 = 2 1
+cowards = 698 = 2 2
+MCI = 699 = 2 1
+Faulk = 700 = 2 1
+McDonnell = 701 = 2 1
+US Airways = 702 = 2 1
+Administration = 703 = 2 2
+businessmen = 704 = 2 2
+legislators = 705 = 2 2
+cops = 706 = 2 1
+Firearms = 707 = 2 1
+VA = 708 = 2 1
+alumni = 709 = 2 1
+athletes = 710 = 2 2
+professor = 711 = 2 2
+Ward Armstrong = 712 = 2 1
+bloglines = 713 = 2 1
+U.S.S. California = 714 = 2 1
+bull = 715 = 2 1
+Force = 716 = 2 1
+auditors = 717 = 2 1
+U.S.S. Nevada = 718 = 2 1
+VPAF = 719 = 2 2
+Warrenton = 720 = 2 1
+whom = 721 = 2 2
+Jury = 722 = 2 1
+Refugees = 723 = 2 1
+suspects = 724 = 2 1
+SG = 725 = 2 1
+unit = 726 = 2 2
+North Carolina = 727 = 2 1
+George Lucas = 728 = 2 1
+Reuters = 729 = 2 2
+European Union = 730 = 2 1
+Marji'iya = 731 = 2 1
+jury = 732 = 2 2
+Vang = 733 = 2 1
+gunner = 734 = 2 2
+Commissioner = 735 = 2 2
+radio = 736 = 2 1
+attorneys = 737 = 2 1
+MSM = 738 = 2 2
+Ellison = 739 = 2 1
+majority = 740 = 2 2
+Steven Sisson = 741 = 2 2
+Both = 742 = 2 2
+leadership = 743 = 2 2
+Southside = 744 = 2 1
+Jordan-Hare Stadium = 745 = 2 2
+communities = 746 = 2 2
+bookstore = 747 = 2 1
+shoppers = 748 = 2 1
+Simpson = 749 = 2 1
+Mickey Kaus = 750 = 2 2
+allies = 751 = 2 1
+Kofi = 752 = 2 1
+Daniel Perez = 753 = 2 1
+any = 754 = 2 2
+pollsters = 755 = 2 2
+liberal = 756 = 2 1
+United Iraqi Coalition = 757 = 2 1
+Kobe Bryant = 758 = 2 1
+impala = 759 = 2 1
+WERKHEISER = 760 = 2 1
+Barry Bonds = 761 = 2 1
+respondents = 762 = 2 1
+criminals = 763 = 2 2
+Tanzim = 764 = 2 1
+institutes = 765 = 2 2
+Gary Bettman = 766 = 2 1
+Chris Matthews = 767 = 2 1
+Joyce = 768 = 2 1
+nobody = 769 = 2 2
+Sheriff = 770 = 2 1
+Falluja = 771 = 2 1
+most = 772 = 2 2
+Carlos Vara = 773 = 2 1
+Arizona = 774 = 2 2
+booster = 775 = 2 2
+Bonds = 776 = 2 1
+India = 777 = 2 2
+NBA = 778 = 2 1
+everywhere = 779 = 2 2
+runners = 780 = 2 2
+Greg Anderson = 781 = 2 1
+parents = 782 = 2 2
+ArmandoGarcia = 783 = 2 1
+father = 784 = 2 1
+readers = 785 = 2 2
+customers = 786 = 2 2
+Greg Werkheiser = 787 = 2 1
+namesake = 788 = 2 2
+Tennessee = 789 = 2 1
+Tokyo = 790 = 2 1
+witness = 791 = 2 2
+Powell = 792 = 2 1
+jontait = 793 = 2 1
+Sister Hazel = 794 = 2 1
+Most = 795 = 2 2
+somewhere = 796 = 2 2
+General = 797 = 2 2
+attacker = 798 = 2 1
+Texas = 799 = 2 2
+conglomerate = 800 = 2 1
+Tuscaloosa = 801 = 2 2
+Everlast = 802 = 2 1
+bunch = 803 = 2 2
+Baril = 804 = 2 2
+UCLA = 805 = 2 1
+airport = 806 = 2 2
+Augusta Free Press = 807 = 2 1
+players' association = 808 = 2 1
+Da'wa Islamic = 809 = 2 1
+ship = 810 = 2 1
+Delegate = 811 = 2 2
+Mickey = 812 = 2 2
+City = 813 = 2 2
+RiversideSheriffs' Association = 814 = 2 1
+contemporaries = 815 = 2 2
+fool = 816 = 2 2
+Chinese = 817 = 2 2
+Kuriles = 818 = 2 1
+ships = 819 = 2 1
+stakeholder = 820 = 2 2
+Mauser = 821 = 2 1
+governments = 822 = 2 2
+White = 823 = 2 1
+Romeo Dallaire = 824 = 1 1
+Mujahideen = 825 = 1 1
+Henry County = 826 = 1 1
+42nd District = 827 = 1 1
+Hunter Andrew = 828 = 1 1
+taurus = 829 = 1 1
+passengers = 830 = 1 1
+Fairfax = 831 = 1 1
+deputy = 832 = 1 1
+contributor = 833 = 1 1
+joke = 834 = 1 1
+KingPharmaceuticals = 835 = 1 1
+in-store = 836 = 1 1
+Cayman Islands = 837 = 1 1
+Middle East = 838 = 1 1
+LosAngeles Times = 839 = 1 1
+Domocratic = 840 = 1 1
+borders = 841 = 1 1
+SalamFayyad = 842 = 1 1
+Tubs = 843 = 1 1
+Michael Irvin = 844 = 1 1
+asset = 845 = 1 1
+Green Bay = 846 = 1 1
+patio = 847 = 1 1
+Lisa M. Montgomery = 848 = 1 1
+Marine Corps = 849 = 1 1
+defender = 850 = 1 1
+Amazon.com = 851 = 1 1
+YOU = 852 = 1 1
+ministers = 853 = 1 1
+wherever = 854 = 1 1
+attacks = 855 = 1 1
+Mosul = 856 = 1 1
+array = 857 = 1 1
+enemies = 858 = 1 1
+Ling-Temco-Vought = 859 = 1 1
+G = 860 = 1 1
+Magazine = 861 = 1 1
+caretakers = 862 = 1 1
+quarterbacks = 863 = 1 1
+explosives = 864 = 1 1
+Asian Pacific Post = 865 = 1 1
+P = 866 = 1 1
+Bobbie Jo Stinnett = 867 = 1 1
+Food and Drug Administration = 868 = 1 1
+Janet Norwood = 869 = 1 1
+experts = 870 = 1 1
+CINCPAC = 871 = 1 1
+envoy = 872 = 1 1
+BetterWorld Campaign = 873 = 1 1
+United States PacificFleet = 874 = 1 1
+tribe = 875 = 1 1
+consultant = 876 = 1 1
+Satan = 877 = 1 1
+BaikalFinansGroup = 878 = 1 1
+Charlottesville = 879 = 1 1
+ChrisRix = 880 = 1 1
+Linda Schrenko = 881 = 1 1
+journalists = 882 = 1 1
+labor = 883 = 1 1
+Association of Muslim Scholars = 884 = 1 1
+medics = 885 = 1 1
+farmers = 886 = 1 1
+developer = 887 = 1 1
+Few = 888 = 1 1
+Al-Jazeera = 889 = 1 1
+Bowling Green = 890 = 1 1
+rep = 891 = 1 1
+resources = 892 = 1 1
+Capitol Square = 893 = 1 1
+exception = 894 = 1 1
+John Ashcroft = 895 = 1 1
+WEAPONS = 896 = 1 1
+Quentin Groves = 897 = 1 1
+strippers = 898 = 1 1
+Shiite = 899 = 1 1
+DavidGreene = 900 = 1 1
+Someone = 901 = 1 1
+Dave = 902 = 1 1
+Goodenow = 903 = 1 1
+San Bernardino County = 904 = 1 1
+Conglomerates = 905 = 1 1
+Heat = 906 = 1 1
+Humvees = 907 = 1 1
+Mao Hengfeng = 908 = 1 1
+Democratic = 909 = 1 1
+BryantDenny Stadium = 910 = 1 1
+hunters = 911 = 1 1
+United Nation = 912 = 1 1
+PeteRose = 913 = 1 1
+scientists = 914 = 1 1
+Carolina = 915 = 1 1
+hotels = 916 = 1 1
+Lance Corporal = 917 = 1 1
+Its = 918 = 1 1
+raiders = 919 = 1 1
+commitee = 920 = 1 1
+Will Verhrs = 921 = 1 1
+Minnesota = 922 = 1 1
+independents = 923 = 1 1
+Tech = 924 = 1 1
+Nissan = 925 = 1 1
+Coach = 926 = 1 1
+Department ofHomeland Security = 927 = 1 1
+Arroyo = 928 = 1 1
+Stanford Law School = 929 = 1 1
+Nobody = 930 = 1 1
+Spottswood Robins = 931 = 1 1
+al-Qaeda = 932 = 1 1
+village = 933 = 1 1
+Mylan labs = 934 = 1 1
+WNBA = 935 = 1 1
+carrier = 936 = 1 1
+Gun Owners of California = 937 = 1 1
+George Allen = 938 = 1 1
+united nations = 939 = 1 1
+manufacturers = 940 = 1 1
+job = 941 = 1 1
+Haditha = 942 = 1 1
+idiots = 943 = 1 1
+publications = 944 = 1 1
+Wegman's = 945 = 1 1
+Times Dispatch = 946 = 1 1
+Tim Roemer = 947 = 1 1
+Adam Smith = 948 = 1 1
+fugitive = 949 = 1 1
+New York Yankees = 950 = 1 1
+Colorado Springs = 951 = 1 1
+Department of Business Assistance = 952 = 1 1
+innovators = 953 = 1 1
+Azzaman newspaper = 954 = 1 1
+Bristol Herald Courier = 955 = 1 1
+athlete = 956 = 1 1
+Mukhabarat = 957 = 1 1
+hell = 958 = 1 1
+Swiss = 959 = 1 1
+Luciana Sacerdoti = 960 = 1 1
+Alvaro Rodarte = 961 = 1 1
+martyr = 962 = 1 1
+MSN Moneycentral = 963 = 1 1
+VA State Senate = 964 = 1 1
+philanthropist = 965 = 1 1
+Qa'idatAl-Jihad = 966 = 1 1
+correspondent = 967 = 1 1
+National Conservation and TrainingCenter = 968 = 1 1
+Hollywood Video = 969 = 1 1
+he/she = 970 = 1 1
+Committee = 971 = 1 1
+hero = 972 = 1 1
+Badr = 973 = 1 1
+Jeremy M. Lazarus = 974 = 1 1
+Dick Black = 975 = 1 1
+Newdow = 976 = 1 1
+Martha Stewart = 977 = 1 1
+Baxley = 978 = 1 1
+Jobs = 979 = 1 1
+M.Hassan = 980 = 1 1
+Richmond Renaissance = 981 = 1 1
+Republican Party = 982 = 1 1
+La PlataCounty Court = 983 = 1 1
+Larry Sabato = 984 = 1 1
+Delta = 985 = 1 1
+Captain Ed = 986 = 1 1
+Kingston = 987 = 1 1
+Nat Hentoff = 988 = 1 1
+Safia Taleb al-Suhail = 989 = 1 1
+Ariel Sharon = 990 = 1 1
+Five-seveN = 991 = 1 1
+Yuganskneftgaz = 992 = 1 1
+2,008 = 993 = 1 1
+bears = 994 = 1 1
+Amazon = 995 = 1 1
+CBS = 996 = 1 1
+clinic = 997 = 1 1
+BUSH = 998 = 1 1
+Smithfield Food = 999 = 1 1
+arena = 1000 = 1 1
+KGB = 1001 = 1 1
+bosses = 1002 = 1 1
+nowhere = 1003 = 1 1
+soul = 1004 = 1 1
+Sears-Kmart = 1005 = 1 1
+observer = 1006 = 1 1
+nukes = 1007 = 1 1
+New York City = 1008 = 1 1
+smokers = 1009 = 1 1
+advocate = 1010 = 1 1
+Maurice Clarrett = 1011 = 1 1
+Palestine LiberationOrganization = 1012 = 1 1
+Ukrainian = 1013 = 1 1
+Kottkamp = 1014 = 1 1
+Columbus = 1015 = 1 1
+worker = 1016 = 1 1
+Slate = 1017 = 1 1
+citizen = 1018 = 1 1
+Marine = 1019 = 1 1
+franchise = 1020 = 1 1
+Ba'athists = 1021 = 1 1
+species = 1022 = 1 1
+buyers = 1023 = 1 1
+Guatemala = 1024 = 1 1
+teens = 1025 = 1 1
+Sir = 1026 = 1 1
+medium = 1027 = 1 1
+Marino = 1028 = 1 1
+Southside university = 1029 = 1 1
+State Board of Elections = 1030 = 1 1
+mate = 1031 = 1 1
+wounded = 1032 = 1 1
+Sergeant = 1033 = 1 1
+Stephen = 1034 = 1 1
+Richard Black = 1035 = 1 1
+whomever = 1036 = 1 1
+scientist = 1037 = 1 1
+Fauquier County = 1038 = 1 1
+Commission on theIntelligence Capabilities of the United States Regarding Weapons of MassDestruction = 1039 = 1 1
+loser = 1040 = 1 1
+Brussels = 1041 = 1 1
+Latifiya = 1042 = 1 1
+Continent = 1043 = 1 1
+grandson = 1044 = 1 1
+aggregators = 1045 = 1 1
+Spitzer = 1046 = 1 1
+Carl Icahn = 1047 = 1 1
+youth = 1048 = 1 1
+Broadcast.com = 1049 = 1 1
+pools = 1050 = 1 1
+Fifth Horseman = 1051 = 1 1
+governiks = 1052 = 1 1
+Lord = 1053 = 1 1
+several = 1054 = 1 1
+Mujahideen Advisory Council = 1055 = 1 1
+Jim Gilmore = 1056 = 1 1
+fugitives = 1057 = 1 1
+Peyton Manning = 1058 = 1 1
+Washington Times = 1059 = 1 1
+liar = 1060 = 1 1
+regions = 1061 = 1 1
+performers = 1062 = 1 1
+Vasquez-Mendoza = 1063 = 1 1
+Sooners = 1064 = 1 1
+HawaiianDepartment = 1065 = 1 1
+Earth = 1066 = 1 1
+octogenarian = 1067 = 1 1
+co-chair = 1068 = 1 1
+general = 1069 = 1 1
+Salon.com = 1070 = 1 1
+representative = 1071 = 1 1
+fragments = 1072 = 1 1
+Karbala = 1073 = 1 1
+Kofi] Annan = 1074 = 1 1
+Paul Rancatore = 1075 = 1 1
+universities = 1076 = 1 1
+giant = 1077 = 1 1
+BALCO = 1078 = 1 1
+other's = 1079 = 1 1
+Catholic = 1080 = 1 1
+pro-choicers = 1081 = 1 1
+rapists = 1082 = 1 1
+Pat McNamara = 1083 = 1 1
+chum = 1084 = 1 1
+camp = 1085 = 1 1
+yourself = 1086 = 1 1
+Asia = 1087 = 1 1
+peacekeepers = 1088 = 1 1
+thousands = 1089 = 1 1
+Sayyid Ahmed Al-Safi = 1090 = 1 1
+Richmond.com = 1091 = 1 1
+blinder = 1092 = 1 1
+Democracy Council = 1093 = 1 1
+Institutions = 1094 = 1 1
+sap = 1095 = 1 1
+Hitler = 1096 = 1 1
+Kansas = 1097 = 1 1
+U.S. = 1098 = 1 1
+Graham = 1099 = 1 1
+stars = 1100 = 1 1
+Albert CannellaJr = 1101 = 1 1
+E M Risse = 1102 = 1 1
+Aum Shinrikyo = 1103 = 1 1
+McCombs Business School = 1104 = 1 1
+Spc = 1105 = 1 1
+Tutsis = 1106 = 1 1
+New York Stock Exchange = 1107 = 1 1
+centers = 1108 = 1 1
+line = 1109 = 1 1
+Clement = 1110 = 1 1
+This = 1111 = 1 1
+delegate = 1112 = 1 1
+mine = 1113 = 1 1
+Colo = 1114 = 1 1
+fighter = 1115 = 1 1
+end = 1116 = 1 1
+Tyco = 1117 = 1 1
+Major League Baseball = 1118 = 1 1
+The Citadel = 1119 = 1 1
+Confederate = 1120 = 1 1
+WallStreet = 1121 = 1 1
+co-COOs = 1122 = 1 1
+International Monetary Fund = 1123 = 1 1
+beacon = 1124 = 1 1
+Red Sox = 1125 = 1 1
+Diyala = 1126 = 1 1
+Houston Chronicle = 1127 = 1 1
+Iraqi National Congress = 1128 = 1 1
+Kristen Gelineau = 1129 = 1 1
+Father = 1130 = 1 1
+anchor = 1131 = 1 1
+JACKSON CHARLES PHARRIS = 1132 = 1 1
+Jordan = 1133 = 1 1
+startups = 1134 = 1 1
+JasonVoorhees = 1135 = 1 1
+Amy = 1136 = 1 1
+carbine = 1137 = 1 1
+Time magazine = 1138 = 1 1
+OSU = 1139 = 1 1
+coward = 1140 = 1 1
+pundit = 1141 = 1 1
+Sox = 1142 = 1 1
+Nagumo = 1143 = 1 1
+shrines = 1144 = 1 1
+ZAOGazpromgeocomservice = 1145 = 1 1
+columnists/bloggers = 1146 = 1 1
+Bolling = 1147 = 1 1
+Ocala = 1148 = 1 1
+pundits = 1149 = 1 1
+blog = 1150 = 1 1
+Island = 1151 = 1 1
+Joe = 1152 = 1 1
+magazine = 1153 = 1 1
+another = 1154 = 1 1
+Sgt. = 1155 = 1 1
+Ralf Nader = 1156 = 1 1
+judiciary = 1157 = 1 1
+Cape Coral = 1158 = 1 1
+Wanita Renea Young = 1159 = 1 1
+GregBlue = 1160 = 1 1
+MEDVAC = 1161 = 1 1
+County = 1162 = 1 1
+newsstands = 1163 = 1 1
+Nicolae Mischie = 1164 = 1 1
+Ens = 1165 = 1 1
+C-E-friggin- O = 1166 = 1 1
+Fleet = 1167 = 1 1
+Finance Committee = 1168 = 1 1
+Jeff Kottkamp = 1169 = 1 1
+Abdul-Aziz Al-Hakim = 1170 = 1 1
+University of Texas = 1171 = 1 1
+University = 1172 = 1 1
+PGR = 1173 = 1 1
+Shaquille = 1174 = 1 1
+Tver = 1175 = 1 1
+Wade = 1176 = 1 1
+Grayson = 1177 = 1 1
+partner = 1178 = 1 1
+Prison = 1179 = 1 1
+black = 1180 = 1 1
+Attorneys = 1181 = 1 1
+Seminole = 1182 = 1 1
+entrepreneurs = 1183 = 1 1
+fighters = 1184 = 1 1
+cities = 1185 = 1 1
+Kody Bliss = 1186 = 1 1
+HIS = 1187 = 1 1
+zeyad = 1188 = 1 1
+locations = 1189 = 1 1
+Rome = 1190 = 1 1
+Macau = 1191 = 1 1
+Yasser Arafat = 1192 = 1 1
+Merckers = 1193 = 1 1
+MiddleEast = 1194 = 1 1
+fire = 1195 = 1 1
+Fatah = 1196 = 1 1
+BBCNews = 1197 = 1 1
+Honshu = 1198 = 1 1
+Gen = 1199 = 1 1
+Victor Garcia = 1200 = 1 1
+113 = 1201 = 1 1
+Choke-lahoma = 1202 = 1 1
+Dan Marino = 1203 = 1 1
+DickBlack = 1204 = 1 1
+doctor = 1205 = 1 1
+clowns = 1206 = 1 1
+minions = 1207 = 1 1
+person(s = 1208 = 1 1
+PSD (Social-Democratic Party = 1209 = 1 1
+North America = 1210 = 1 1
+GeorgetownUniversity = 1211 = 1 1
+Virginia Public Access Project = 1212 = 1 1
+General Assembly = 1213 = 1 1
+Mike Antonovich = 1214 = 1 1
+Archaeologist = 1215 = 1 1
+Iraqi's = 1216 = 1 1
+Golden State = 1217 = 1 1
+agent = 1218 = 1 1
+Anabella Vara = 1219 = 1 1
+42ndDistrict = 1220 = 1 1
+thing = 1221 = 1 1
+Indians = 1222 = 1 1
+barge = 1223 = 1 1
+employer = 1224 = 1 1
+Laborers = 1225 = 1 1
+Seminoles = 1226 = 1 1
+Miami Heat = 1227 = 1 1
+statesman = 1228 = 1 1
+taxpayers = 1229 = 1 1
+individuals = 1230 = 1 1
+employed = 1231 = 1 1
+Atlantic = 1232 = 1 1
+Customer = 1233 = 1 1
+five = 1234 = 1 1
+Buckeye state = 1235 = 1 1
+sea = 1236 = 1 1
+Yassar Arafat = 1237 = 1 1
+czar = 1238 = 1 1
+cockpits = 1239 = 1 1
+Gary Sheffield = 1240 = 1 1
+Matt Rees = 1241 = 1 1
+Nicholas Graham = 1242 = 1 1
+Marion Hammer = 1243 = 1 1
+Congo = 1244 = 1 1
+Fred Wadnola = 1245 = 1 1
+Greenberg Sr = 1246 = 1 1
+bands = 1247 = 1 1
+Choir = 1248 = 1 1
+Commonwealth = 1249 = 1 1
+actor = 1250 = 1 1
+Leinert = 1251 = 1 1
+council = 1252 = 1 1
+apparatus = 1253 = 1 1
+buyer = 1254 = 1 1
+Lazarus = 1255 = 1 1
+eggers = 1256 = 1 1
+Robert Ferguson = 1257 = 1 1
+Israelis = 1258 = 1 1
+two-man = 1259 = 1 1
+Dave Albo = 1260 = 1 1
+Chap = 1261 = 1 1
+SCHEV = 1262 = 1 1
+Spottswood W. Robinson III = 1263 = 1 1
+wagons = 1264 = 1 1
+gas = 1265 = 1 1
+justices = 1266 = 1 1
+Asian = 1267 = 1 1
+Lucent = 1268 = 1 1
+Fitch = 1269 = 1 1
+Attila = 1270 = 1 1
+Greenshades = 1271 = 1 1
+Connaughton = 1272 = 1 1
+satellite = 1273 = 1 1
+plenty = 1274 = 1 1
+National Rifle Association = 1275 = 1 1
+Antonovich = 1276 = 1 1
+PAC = 1277 = 1 1
+TSCM = 1278 = 1 1
+Canuck = 1279 = 1 1
+teammates = 1280 = 1 1
+Salamander Inn & Spa = 1281 = 1 1
+Sinaloan Cowboys = 1282 = 1 1
+Philadelphia = 1283 = 1 1
+GeorgeWashington = 1284 = 1 1
+CHALLENGERS = 1285 = 1 1
+seniors = 1286 = 1 1
+Birmingham = 1287 = 1 1
+mothereffers = 1288 = 1 1
+Grundy = 1289 = 1 1
+Nebraska = 1290 = 1 1
+Marshalls = 1291 = 1 1
+Larry Ellison = 1292 = 1 1
+bombers = 1293 = 1 1
+location = 1294 = 1 1
+Ross = 1295 = 1 1
+bulkhead = 1296 = 1 1
+Steve Sisson = 1297 = 1 1
+2,117 = 1298 = 1 1
+Chet = 1299 = 1 1
+Wise County = 1300 = 1 1
+moderate to conservative = 1301 = 1 1
+crewmembers = 1302 = 1 1
+Residents = 1303 = 1 1
+Vermont = 1304 = 1 1
+Fraser Institute = 1305 = 1 1
+Pennsylvania = 1306 = 1 1
+this = 1307 = 1 1
+Beirut = 1308 = 1 1
+Hizbollah Al-Iraq = 1309 = 1 1
+equivalent = 1310 = 1 1
+Hizbollah movement = 1311 = 1 1
+Spain = 1312 = 1 1
+Cleveland = 1313 = 1 1
+investor = 1314 = 1 1
+187,500 = 1315 = 1 1
+clerics = 1316 = 1 1
+Richmonders = 1317 = 1 1
+network = 1318 = 1 1
+naval = 1319 = 1 1
+Rockefeller Brothers Fund = 1320 = 1 1
+poet = 1321 = 1 1
+arms = 1322 = 1 1
+driver = 1323 = 1 1
+Oslo = 1324 = 1 1
+Stop n' Shop = 1325 = 1 1
+VITA = 1326 = 1 1
+ourselves = 1327 = 1 1
+DBA = 1328 = 1 1
+JohnKerry = 1329 = 1 1
+Chato = 1330 = 1 1
+Iranian = 1331 = 1 1
+Martha = 1332 = 1 1
+Lem Tugle = 1333 = 1 1
+hero's = 1334 = 1 1
+Board of Education = 1335 = 1 1
+Corps = 1336 = 1 1
+hugger = 1337 = 1 1
+These = 1338 = 1 1
+Mate = 1339 = 1 1
+East = 1340 = 1 1
+Chap Petersen = 1341 = 1 1
+dumbass = 1342 = 1 1
+United StatesPacific Fleet = 1343 = 1 1
+wal-mart = 1344 = 1 1
+bullets = 1345 = 1 1
+cop-killer = 1346 = 1 1
+Todd Graves = 1347 = 1 1
+monster = 1348 = 1 1
+Virginian-Pilot = 1349 = 1 1
+honor = 1350 = 1 1
+Baltimore Ravens = 1351 = 1 1
+Tom Brokaw = 1352 = 1 1
+kitchen = 1353 = 1 1
+favorite = 1354 = 1 1
+Costa Mesa = 1355 = 1 1
+vessels = 1356 = 1 1
+Campaign = 1357 = 1 1
+continentals = 1358 = 1 1
+31 = 1359 = 1 1
+ALBO = 1360 = 1 1
+fellow = 1361 = 1 1
+incumbents = 1362 = 1 1
+Wynn = 1363 = 1 1
+born = 1364 = 1 1
+Moses = 1365 = 1 1
+Tanger = 1366 = 1 1
+15 = 1367 = 1 1
+idealists = 1368 = 1 1
+freshmen = 1369 = 1 1
+Sheikhs = 1370 = 1 1
+gunmen = 1371 = 1 1
+figure = 1372 = 1 1
+Alexandria = 1373 = 1 1
+whistleblower = 1374 = 1 1
+cult = 1375 = 1 1
+reef = 1376 = 1 1
+DB's = 1377 = 1 1
+boss = 1378 = 1 1
+dicks = 1379 = 1 1
+Ashlee "no, I'm the one with dark hair and no boobs" Simpson = 1380 = 1 1
+wackjob = 1381 = 1 1
+passenger = 1382 = 1 1
+operative = 1383 = 1 1
+palestinians = 1384 = 1 1
+hitters = 1385 = 1 1
+Wise = 1386 = 1 1
+caucus = 1387 = 1 1
+secularist = 1388 = 1 1
+Bernard Lewis = 1389 = 1 1
+Insider = 1390 = 1 1
+Andy Geiger = 1391 = 1 1
+Researchers = 1392 = 1 1
+80 = 1393 = 1 1
+87 = 1394 = 1 1
+69 = 1395 = 1 1
+victim = 1396 = 1 1
+Joe Freeman = 1397 = 1 1
+pigsties = 1398 = 1 1
+year-olds = 1399 = 1 1
+assets = 1400 = 1 1
+George W. Grayson = 1401 = 1 1
+71 = 1402 = 1 1
+Beijing = 1403 = 1 1
+Michigan = 1404 = 1 1
+74 = 1405 = 1 1
+European's = 1406 = 1 1
+Arkansas = 1407 = 1 1
+United = 1408 = 1 1
+Chuichi Nagumo = 1409 = 1 1
+Alabama Crimson Tide = 1410 = 1 1
+model = 1411 = 1 1
+Jeff Sagarin = 1412 = 1 1
+Athens = 1413 = 1 1
+prosecutor = 1414 = 1 1
+44-Magnum = 1415 = 1 1
+paragon = 1416 = 1 1
+Martin J. Sullivan = 1417 = 1 1
+Dawgs = 1418 = 1 1
+LeeCorso = 1419 = 1 1
+Dianna Preece = 1420 = 1 1
+WVA = 1421 = 1 1
+Aqsa Martyrs = 1422 = 1 1
+suppliers = 1423 = 1 1
+units = 1424 = 1 1
+Michael = 1425 = 1 1
+JetBlue = 1426 = 1 1
+stronghold = 1427 = 1 1
+service = 1428 = 1 1
+Green Zone = 1429 = 1 1
+UNA-USA = 1430 = 1 1
+RoyBurns = 1431 = 1 1
+Washington D.C = 1432 = 1 1
+King Pharmaceuticals = 1433 = 1 1
+50 = 1434 = 1 1
+Books-A-Million = 1435 = 1 1
+Sunni = 1436 = 1 1
+Floyd's Music Store = 1437 = 1 1
+authors = 1438 = 1 1
+followers = 1439 = 1 1
+GOP = 1440 = 1 1
+DemocraticParty = 1441 = 1 1
+O'neal = 1442 = 1 1
+Joseph Britt = 1443 = 1 1
+CEOs = 1444 = 1 1
+Iginla = 1445 = 1 1
+Roe = 1446 = 1 1
+Geneva = 1447 = 1 1
+national = 1448 = 1 1
+Rob = 1449 = 1 1
+Alumni = 1450 = 1 1
+superpower = 1451 = 1 1
+tribal = 1452 = 1 1
+cube = 1453 = 1 1
+Tennessee Army National Guard = 1454 = 1 1
+Pearl Harbor StrikingForce = 1455 = 1 1
+ground = 1456 = 1 1
+Many = 1457 = 1 1
+London = 1458 = 1 1
+Switzerland = 1459 = 1 1
+character = 1460 = 1 1
+Time = 1461 = 1 1
+latter = 1462 = 1 1
+109 = 1463 = 1 1
+Pacific = 1464 = 1 1
+living room = 1465 = 1 1
+union = 1466 = 1 1
+Pinocchio = 1467 = 1 1
+102 = 1468 = 1 1
+Danville = 1469 = 1 1
+hoipolloi = 1470 = 1 1
+Congresswoman = 1471 = 1 1
+Geiger = 1472 = 1 1
+Drug Enforcement Agency = 1473 = 1 1
+Sheff = 1474 = 1 1
+secretary = 1475 = 1 1
+Johnson = 1476 = 1 1
+David Pollack = 1477 = 1 1
+foe = 1478 = 1 1
+brand = 1479 = 1 1
+Clearing House = 1480 = 1 1
+users = 1481 = 1 1
+Jeremy = 1482 = 1 1
+Rix = 1483 = 1 1
+LSU = 1484 = 1 1
+race = 1485 = 1 1
+al-AqsaMartyrs' Brigades = 1486 = 1 1
+Topeka = 1487 = 1 1
+witnesses = 1488 = 1 1
+University of Virginia = 1489 = 1 1
+Legislative Black Caucus = 1490 = 1 1
+subsidiaries = 1491 = 1 1
+West Virginia = 1492 = 1 1
+work = 1493 = 1 1
+victims = 1494 = 1 1
+Karen Brewer = 1495 = 1 1
+class = 1496 = 1 1
+Superintendant = 1497 = 1 1
+bidders = 1498 = 1 1
+Northshore = 1499 = 1 1
+nuthouse = 1500 = 1 1
+Northwestern = 1501 = 1 1
+bomb = 1502 = 1 1
+278th Regimental CombatTeam = 1503 = 1 1
+Stuart Taylor = 1504 = 1 1
+contestants = 1505 = 1 1
+Maurice R. "Hank" Greenberg = 1506 = 1 1
+campus = 1507 = 1 1
+Psuedo.com = 1508 = 1 1
+Brigades = 1509 = 1 1
+booksellers = 1510 = 1 1
+Pentagon = 1511 = 1 1
+Ore = 1512 = 1 1
+Yazid = 1513 = 1 1
+offices = 1514 = 1 1
+Floridians = 1515 = 1 1
+marine = 1516 = 1 1
+cashiers = 1517 = 1 1
+lunatic = 1518 = 1 1
+moderate = 1519 = 1 1
+ROBERT R. SCOTT = 1520 = 1 1
+Steve Wynn = 1521 = 1 1
+Lebanese = 1522 = 1 1
+Byrd = 1523 = 1 1
+Kure naval base = 1524 = 1 1
+Nashville = 1525 = 1 1
+industries = 1526 = 1 1
+Chris Graham = 1527 = 1 1
+African-Americans = 1528 = 1 1
+alliance = 1529 = 1 1
+Burns = 1530 = 1 1
+interloper = 1531 = 1 1
+Borders = 1532 = 1 1
+John Oxendine = 1533 = 1 1
+Nigerian = 1534 = 1 1
+parts = 1535 = 1 1
+participants = 1536 = 1 1
+East coast = 1537 = 1 1
+subway = 1538 = 1 1
+levels = 1539 = 1 1
+Islamists = 1540 = 1 1
+tent = 1541 = 1 1
+Doug Walker = 1542 = 1 1
+missiles = 1543 = 1 1
+Hugh Hefner = 1544 = 1 1
+defenses = 1545 = 1 1
+host = 1546 = 1 1
+mansion = 1547 = 1 1
+Security Council = 1548 = 1 1
+Puebla = 1549 = 1 1
+outlets = 1550 = 1 1
+sedans = 1551 = 1 1
+Mu'awiya = 1552 = 1 1
+346 = 1553 = 1 1
+New York Times = 1554 = 1 1
+Fatah Tanzim militia = 1555 = 1 1
+Ramadi = 1556 = 1 1
+project = 1557 = 1 1
+Holy Christ = 1558 = 1 1
+Northwest = 1559 = 1 1
+Bill Gates = 1560 = 1 1
+Dr = 1561 = 1 1
+Andrew Sullivan = 1562 = 1 1
+Gunner = 1563 = 1 1
+Fark = 1564 = 1 1
+each = 1565 = 1 1
+compartments = 1566 = 1 1
+Kurdish = 1567 = 1 1
+Hadi Al-Amiri = 1568 = 1 1
+execs = 1569 = 1 1
+stockowners = 1570 = 1 1
+Buckeye = 1571 = 1 1
+patient = 1572 = 1 1
+Cult = 1573 = 1 1
+senators = 1574 = 1 1
+ING = 1575 = 1 1
+Monolith = 1576 = 1 1
+father-in-law = 1577 = 1 1
+HE = 1578 = 1 1
+Iverson = 1579 = 1 1
+bitches = 1580 = 1 1
+Japs = 1581 = 1 1
+graduates = 1582 = 1 1
+Michael Moore = 1583 = 1 1
+negotiants = 1584 = 1 1
+Nasiriya = 1585 = 1 1
+shipfitters = 1586 = 1 1
+710 = 1587 = 1 1
+rodent = 1588 = 1 1
+Mikhail Khodorkovsky = 1589 = 1 1
+steward = 1590 = 1 1
+Republican Guards = 1591 = 1 1
+ditch = 1592 = 1 1
+BusinessWeek Online = 1593 = 1 1
+co-chairman = 1594 = 1 1
+terminal = 1595 = 1 1
+Silvan Shalom = 1596 = 1 1
+bank = 1597 = 1 1
+Gil-mo = 1598 = 1 1
+spenders = 1599 = 1 1
+eminence = 1600 = 1 1
+founder = 1601 = 1 1
+Brady Campaign = 1602 = 1 1
+300 = 1603 = 1 1
+Homeland Security = 1604 = 1 1
+Wyatt Sexton = 1605 = 1 1
+Microsoft = 1606 = 1 1
+States = 1607 = 1 1
+East Indies = 1608 = 1 1
+Islamic Jihad = 1609 = 1 1
+Yuganskneftegaz = 1610 = 1 1
+factory = 1611 = 1 1
+Matt Leinert = 1612 = 1 1
+AP = 1613 = 1 1
+Philip Gourevitch = 1614 = 1 1
+Nigeria = 1615 = 1 1
+Shanghai public security bureau = 1616 = 1 1
+farm = 1617 = 1 1
+author = 1618 = 1 1
+pilot = 1619 = 1 1
+Lt. Gov = 1620 = 1 1
+Larry Summer = 1621 = 1 1
+facilities = 1622 = 1 1
+Legislature = 1623 = 1 1
+Youngstown State = 1624 = 1 1
+Broad Street CDA = 1625 = 1 1
+DC = 1626 = 1 1
+Hentoff = 1627 = 1 1
+shrapnel = 1628 = 1 1
+Enterprise = 1629 = 1 1
+Minister of Defense = 1630 = 1 1
+Aspen Institute = 1631 = 1 1
+source = 1632 = 1 1
+Allah = 1633 = 1 1
+anti-taxers = 1634 = 1 1
+Best Buy = 1635 = 1 1
+boy = 1636 = 1 1
+Securities Class Action Clearinghouse = 1637 = 1 1
+gentlemen = 1638 = 1 1
+Donald P. Kanak = 1639 = 1 1
+Drudge = 1640 = 1 1
+Mark May = 1641 = 1 1
+Loren Thompson = 1642 = 1 1
+J. Nathan = 1643 = 1 1
+FRANCISC. FLAHERTY = 1644 = 1 1
+William & Mary = 1645 = 1 1
+Those = 1646 = 1 1
+Kesserling = 1647 = 1 1
+BCUN = 1648 = 1 1
+overhead = 1649 = 1 1
+hippie = 1650 = 1 1
+murderers = 1651 = 1 1
+Al-Wazirya district = 1652 = 1 1
+Chai Vang = 1653 = 1 1
+David Albo = 1654 = 1 1
+DemocraticNational = 1655 = 1 1
+activist = 1656 = 1 1
+zones = 1657 = 1 1
+David Hernandez Arroyo Sr = 1658 = 1 1
+Dulles Toll Road = 1659 = 1 1
+running backs = 1660 = 1 1
+Fayyad = 1661 = 1 1
+auto = 1662 = 1 1
+Man-Portable Air Defense Systems = 1663 = 1 1
+Baker = 1664 = 1 1
+Council = 1665 = 1 1
+co-founder = 1666 = 1 1
+supporter = 1667 = 1 1
+segments = 1668 = 1 1
+Bruce Smith = 1669 = 1 1
+empire = 1670 = 1 1
+DONALD KIRBY ROSS = 1671 = 1 1
+England = 1672 = 1 1
+Washington Monument = 1673 = 1 1
+ira-cam = 1674 = 1 1
+C-E Club = 1675 = 1 1
+Linda = 1676 = 1 1
+visionaries = 1677 = 1 1
+porches = 1678 = 1 1
+hyena = 1679 = 1 1
+hole = 1680 = 1 1
+War Eagle = 1681 = 1 1
+Andrea Yates = 1682 = 1 1
+Allegheny = 1683 = 1 1
+Fontana = 1684 = 1 1
+speakers = 1685 = 1 1
+cheerleaders = 1686 = 1 1
+chemist = 1687 = 1 1
+wannabe = 1688 = 1 1
+stockholder = 1689 = 1 1
+accountants = 1690 = 1 1
+retailer = 1691 = 1 1
+MajorLeague Soccer = 1692 = 1 1
+NOVA = 1693 = 1 1
+statewide = 1694 = 1 1
+ImamHussein bin Ali = 1695 = 1 1
+denomination = 1696 = 1 1
+thrower = 1697 = 1 1
+779 = 1698 = 1 1
+Wales = 1699 = 1 1
+sectors = 1700 = 1 1
+USA Today = 1701 = 1 1
+whole = 1702 = 1 1
+employers = 1703 = 1 1
+lives = 1704 = 1 1
+Greenberg = 1705 = 1 1
+Nastase = 1706 = 1 1
+commonwealth = 1707 = 1 1
+IonIliescu = 1708 = 1 1
+Flaherty = 1709 = 1 1
+JK = 1710 = 1 1
+fetus-thing = 1711 = 1 1
+LeslieByrne = 1712 = 1 1
+Brown = 1713 = 1 1
+Lee Baca = 1714 = 1 1
+thecompany = 1715 = 1 1
+Washington DC = 1716 = 1 1
+Democart party = 1717 = 1 1
+Dad = 1718 = 1 1
+Joe Hazelwood = 1719 = 1 1
+Victoria Jo = 1720 = 1 1
+Northshore Management = 1721 = 1 1
+MAG = 1722 = 1 1
+building = 1723 = 1 1
+investments = 1724 = 1 1
+killers = 1725 = 1 1
+Dutch = 1726 = 1 1
+airmen = 1727 = 1 1
+Sheila Johnson = 1728 = 1 1
+Romanian = 1729 = 1 1
+Los Angeles = 1730 = 1 1
+Joseph Granville = 1731 = 1 1
+heroes = 1732 = 1 1
+Barnes& Noble = 1733 = 1 1
+PaulTagliabue = 1734 = 1 1
+Martha Stewart Living Omnimedia = 1735 = 1 1
+blockheads = 1736 = 1 1
+Isreal = 1737 = 1 1
+John Kerry = 1738 = 1 1
+missle = 1739 = 1 1
+recruit = 1740 = 1 1
+Big 12 = 1741 = 1 1
+Michael Milken = 1742 = 1 1
+Mark Wilson = 1743 = 1 1
+Joanna Rytel = 1744 = 1 1
+commission = 1745 = 1 1
+submarine = 1746 = 1 1
+passenger's = 1747 = 1 1
+elements = 1748 = 1 1
+groupings = 1749 = 1 1
+UT = 1750 = 1 1
+KofiAnnan = 1751 = 1 1
+Department of Minority Business Enterprise = 1752 = 1 1
+Employees = 1753 = 1 1
+UK = 1754 = 1 1
+colleagues = 1755 = 1 1
+Clinton = 1756 = 1 1
+models = 1757 = 1 1
+neighborhoods = 1758 = 1 1
+Michael Barbaro = 1759 = 1 1
+National Organization for Women = 1760 = 1 1
+LyndonJohnson = 1761 = 1 1
+security services = 1762 = 1 1
+Led Zeppelin = 1763 = 1 1
+TV = 1764 = 1 1
+1st Court of Appeals = 1765 = 1 1
+complex = 1766 = 1 1
+god = 1767 = 1 1
+N.J = 1768 = 1 1
+plants = 1769 = 1 1
+Jassalasca Jape = 1770 = 1 1
+Ayatollah = 1771 = 1 1
+Great Britain = 1772 = 1 1
+babe = 1773 = 1 1
+captain = 1774 = 1 1
+conquerors = 1775 = 1 1
+consortium = 1776 = 1 1
+Wahoos = 1777 = 1 1
+PlannedParenthood = 1778 = 1 1
+Francis Fukuyama = 1779 = 1 1
+Atorney = 1780 = 1 1
+hotshots = 1781 = 1 1
+Vittorio Sacerdoti = 1782 = 1 1
+Trump = 1783 = 1 1
+Senate Finance Committee = 1784 = 1 1
+bulk = 1785 = 1 1
+WM = 1786 = 1 1
+Jim Prince = 1787 = 1 1
+baseman = 1788 = 1 1
+handguns = 1789 = 1 1
+cousins = 1790 = 1 1
+NYSE = 1791 = 1 1
+Liar = 1792 = 1 1
+Shepherdstown = 1793 = 1 1
+cop = 1794 = 1 1
+Saddam Hussein = 1795 = 1 1
+Sheikh HarithAl-Dhari = 1796 = 1 1
+National Guard = 1797 = 1 1
+trucks = 1798 = 1 1
+Malaya = 1799 = 1 1
+Wynn Resorts = 1800 = 1 1
+fields = 1801 = 1 1
+Minn = 1802 = 1 1
+Wahhabis = 1803 = 1 1
+Donovin Darius = 1804 = 1 1
+NBC-12 = 1805 = 1 1
+Shanghai = 1806 = 1 1
+Jacksonville = 1807 = 1 1
+Walter C. Short = 1808 = 1 1
+Amway = 1809 = 1 1
+Manchester = 1810 = 1 1
+Motorola = 1811 = 1 1
+patriot = 1812 = 1 1
+Badr organisation = 1813 = 1 1
+feminist = 1814 = 1 1
+American International Group Inc = 1815 = 1 1
+David = 1816 = 1 1
+quarterback = 1817 = 1 1
+NationalPublic Radio = 1818 = 1 1
+Johnnie = 1819 = 1 1
+Airplanes = 1820 = 1 1
+assclowns = 1821 = 1 1
+dealers = 1822 = 1 1
+African Americans = 1823 = 1 1
+G's Investing = 1824 = 1 1
+Taylor Ostergaard = 1825 = 1 1
+Jason = 1826 = 1 1
+Pub = 1827 = 1 1
+buildings = 1828 = 1 1
+gathering = 1829 = 1 1
+Naval Service = 1830 = 1 1
+Consumers = 1831 = 1 1
+JackDel Rio = 1832 = 1 1
+Journal ofBusiness Finance & Accounting = 1833 = 1 1
+Eliot Spitzer = 1834 = 1 1
+Harvard Business School = 1835 = 1 1
+Bacon's Rebellion = 1836 = 1 1
+Trev Alberts = 1837 = 1 1
+destroyers = 1838 = 1 1
+stockpiles = 1839 = 1 1
+Ulster = 1840 = 1 1
+Black EntertainmentTelevision = 1841 = 1 1
+block = 1842 = 1 1
+NassauCounty = 1843 = 1 1
+Wal-Mart = 1844 = 1 1
+Sun-Sentinal = 1845 = 1 1
+ordnance repair party = 1846 = 1 1
+Adam Ebbin = 1847 = 1 1
+WhitClement = 1848 = 1 1
+sic semper tyrannis = 1849 = 1 1
+Fortune magazine = 1850 = 1 1
+Jessica = 1851 = 1 1
+Salt Lick = 1852 = 1 1
+Hawaiian's = 1853 = 1 1
+mechanic = 1854 = 1 1
+Sheila C.Johnson = 1855 = 1 1
+Arab Bank = 1856 = 1 1
+Submarines = 1857 = 1 1
+Winston Churchill = 1858 = 1 1
+San Diego Chargers = 1859 = 1 1
+troll = 1860 = 1 1
+Skidmore = 1861 = 1 1
+CEO/Chair = 1862 = 1 1
+Independent Electoral Commission = 1863 = 1 1
+Choicepoint = 1864 = 1 1
+Whit Clement = 1865 = 1 1
+Atlantic City = 1866 = 1 1
+jurisdiction = 1867 = 1 1
+hubs = 1868 = 1 1
+fetus = 1869 = 1 1
+Lieutenant = 1870 = 1 1
+Ashlee = 1871 = 1 1
+Roman = 1872 = 1 1
+NAACP = 1873 = 1 1
+Britons = 1874 = 1 1
+Marez = 1875 = 1 1
+db's = 1876 = 1 1
+Sheriff'sDepartment = 1877 = 1 1
+feminists = 1878 = 1 1
+Vicente Fox = 1879 = 1 1
+enterprise = 1880 = 1 1
+manipulator = 1881 = 1 1
+Othman = 1882 = 1 1
+Capital Spectator = 1883 = 1 1
+pork = 1884 = 1 1
+House of Commons = 1885 = 1 1
+douchebags = 1886 = 1 1
+Organizations = 1887 = 1 1
+committees = 1888 = 1 1
+insiders = 1889 = 1 1
+360 = 1890 = 1 1
+JLARC = 1891 = 1 1
+hopeful = 1892 = 1 1
+Australia = 1893 = 1 1
+couple = 1894 = 1 1
+Rytel = 1895 = 1 1
+Ministry of Endowments and Religious Affairs = 1896 = 1 1
+Judge = 1897 = 1 1
+starter = 1898 = 1 1
+OOO Tverneftemash = 1899 = 1 1
+BillClinton = 1900 = 1 1
+commissioner = 1901 = 1 1
+Guv-nah = 1902 = 1 1
+first = 1903 = 1 1
+river = 1904 = 1 1
+Gaza = 1905 = 1 1
+Far East = 1906 = 1 1
+Sam Paredes = 1907 = 1 1
+personality = 1908 = 1 1
+Abdul-Kareem Al-Annizi = 1909 = 1 1
+Lakers = 1910 = 1 1
+Jim O'Brien = 1911 = 1 1
+Irish = 1912 = 1 1
+Miami = 1913 = 1 1
+SAMs = 1914 = 1 1
+lineman = 1915 = 1 1
+Columnist = 1916 = 1 1
+universe = 1917 = 1 1
+servants = 1918 = 1 1
+Douglas Wilder = 1919 = 1 1
+Kansas State = 1920 = 1 1
+minorities = 1921 = 1 1
+Dwight Jones = 1922 = 1 1
+Blazers = 1923 = 1 1
+Thomas Wilson = 1924 = 1 1
+Business Week = 1925 = 1 1
+populace = 1926 = 1 1
+targets = 1927 = 1 1
+DavidMarch = 1928 = 1 1
+bear = 1929 = 1 1
+Lindsey Jo Zellitte = 1930 = 1 1
+Jerry = 1931 = 1 1
+ministries = 1932 = 1 1
+MagLev = 1933 = 1 1
+228 = 1934 = 1 1
+9mm = 1935 = 1 1
+Isreali = 1936 = 1 1
+Virginia Performing ArtsCenter = 1937 = 1 1
+what = 1938 = 1 1
+Heather Craig = 1939 = 1 1
+studio = 1940 = 1 1
+Palestine Investment Fund = 1941 = 1 1
+tight ends = 1942 = 1 1
+housewives = 1943 = 1 1
+Santa Clarita Valley = 1944 = 1 1
+abroad = 1945 = 1 1
+filmmaker = 1946 = 1 1
+dean = 1947 = 1 1
+teenager = 1948 = 1 1
+Economist = 1949 = 1 1
+dead = 1950 = 1 1
+Medford = 1951 = 1 1
+engines = 1952 = 1 1
+Catherine Slusser = 1953 = 1 1
+ammo = 1954 = 1 1
+accountant = 1955 = 1 1
+Insurgents = 1956 = 1 1
+James Baker = 1957 = 1 1
+liars = 1958 = 1 1
+Theo van Gogh = 1959 = 1 1
+Paris = 1960 = 1 1
+Office = 1961 = 1 1
+MarwanBarghouti = 1962 = 1 1
+youngster = 1963 = 1 1
+airplanes = 1964 = 1 1
+Sirius Satellite Radio = 1965 = 1 1
+garage = 1966 = 1 1
+Barbara Crossette = 1967 = 1 1
+Charlotte = 1968 = 1 1
+Hudson Valley Mall = 1969 = 1 1
+AT&T = 1970 = 1 1
+sister = 1971 = 1 1
+Iranians = 1972 = 1 1
+Glendale = 1973 = 1 1
+defendant = 1974 = 1 1
+Andrew Arulanandam = 1975 = 1 1
+sample = 1976 = 1 1
+houses = 1977 = 1 1
+Ion Iliescu = 1978 = 1 1
+Canadian = 1979 = 1 1
+dealmakers = 1980 = 1 1
+maker = 1981 = 1 1
+Captain = 1982 = 1 1
+capitalist = 1983 = 1 1
+Feminists = 1984 = 1 1
+sponsor = 1985 = 1 1
+cheater = 1986 = 1 1
+shooters = 1987 = 1 1
+Blue Dog = 1988 = 1 1
+al = 1989 = 1 1
+Writer = 1990 = 1 1
+basketball = 1991 = 1 1
+Addison = 1992 = 1 1
+MajlisShura Al-Mujahideen = 1993 = 1 1
+Chairman = 1994 = 1 1
+street = 1995 = 1 1
+legislature = 1996 = 1 1
+Department of HistoricalResources = 1997 = 1 1
+Conservatives = 1998 = 1 1
+idiot = 1999 = 1 1
+regime = 2000 = 1 1
+ladies = 2001 = 1 1
+Imam Ali bin Abi Talib = 2002 = 1 1
+Mel = 2003 = 1 1
+clearinghouse = 2004 = 1 1
+Wei Shen = 2005 = 1 1
+Robert Byrd = 2006 = 1 1
+Supporters = 2007 = 1 1
+Virginia Information Technology Agency = 2008 = 1 1
+bodies = 2009 = 1 1
+attorney = 2010 = 1 1
+Benjamin Franklin = 2011 = 1 1
+RFP = 2012 = 1 1
+expert = 2013 = 1 1
+region = 2014 = 1 1
+diplomats = 2015 = 1 1
+Warner Communications = 2016 = 1 1
+schoolchildren = 2017 = 1 1
+Ba'quba = 2018 = 1 1
+patients = 2019 = 1 1
+Divisions = 2020 = 1 1
+Husband E. Kimmel = 2021 = 1 1
+New England = 2022 = 1 1
+Italian = 2023 = 1 1
+St. Pete Times = 2024 = 1 1
+Isoroku Yamamoto = 2025 = 1 1
+organisation = 2026 = 1 1
+Walmart = 2027 = 1 1
+Gods = 2028 = 1 1
+Poland = 2029 = 1 1
+Governments = 2030 = 1 1
+Undersecretary = 2031 = 1 1
+earth = 2032 = 1 1
+German = 2033 = 1 1
+Mark Richt = 2034 = 1 1
+Byron Norwood = 2035 = 1 1
+U.N. Wire = 2036 = 1 1
+imitators = 2037 = 1 1
+Maurice = 2038 = 1 1
+cousin = 2039 = 1 1
+fraud = 2040 = 1 1
+pigpens = 2041 = 1 1
+LabourGovernment = 2042 = 1 1
+missus = 2043 = 1 1
+Sirius Satellite = 2044 = 1 1
+Heatley = 2045 = 1 1
+avenues = 2046 = 1 1
+Professor = 2047 = 1 1
+train = 2048 = 1 1
+conservatives = 2049 = 1 1
+Baptist = 2050 = 1 1
+NCO = 2051 = 1 1
+Reggie White = 2052 = 1 1
+Robinson = 2053 = 1 1
+Moret = 2054 = 1 1
+FDA = 2055 = 1 1
+nationals = 2056 = 1 1
+2Slick = 2057 = 1 1
+lawyer = 2058 = 1 1
+moon = 2059 = 1 1
+son-in-law = 2060 = 1 1
+PoliticAlex = 2061 = 1 1
+ho = 2062 = 1 1
+clinics = 2063 = 1 1
+U.S.S. Oklahoma = 2064 = 1 1
+partners = 2065 = 1 1
+BNPParibas Bank = 2066 = 1 1
+Linda Fasulo = 2067 = 1 1
+Consumer Reports = 2068 = 1 1
+Houston = 2069 = 1 1
+Jim Cramer = 2070 = 1 1
+Samarra = 2071 = 1 1
+agency = 2072 = 1 1
+jails = 2073 = 1 1
+section = 2074 = 1 1
+sheriffs = 2075 = 1 1
+hotel = 2076 = 1 1
+Philippines = 2077 = 1 1
+Massillon = 2078 = 1 1
+goobers = 2079 = 1 1
+winner = 2080 = 1 1
+Christopher Hanson = 2081 = 1 1
+counters = 2082 = 1 1
+Old Dominion = 2083 = 1 1
+UnitedNations = 2084 = 1 1
+donor = 2085 = 1 1
+baseball = 2086 = 1 1
+Fatah movement = 2087 = 1 1
+YasserArafat = 2088 = 1 1
+AARP = 2089 = 1 1
+Robert L. Johnson = 2090 = 1 1
+homeland = 2091 = 1 1
+Jim McMahon = 2092 = 1 1
+Yugoslavian = 2093 = 1 1
+Jacques Moret = 2094 = 1 1
+Supreme Court of Mexico = 2095 = 1 1
+mob = 2096 = 1 1
+cell = 2097 = 1 1
+Brokaw = 2098 = 1 1
+builders = 2099 = 1 1
+SUV's = 2100 = 1 1
+Investors = 2101 = 1 1
+District = 2102 = 1 1
+sponsors = 2103 = 1 1
+Jamestown = 2104 = 1 1
+Auctioneers = 2105 = 1 1
+Palestinian Legislative Council = 2106 = 1 1
+Skeeter Faulk = 2107 = 1 1
+Washington Post = 2108 = 1 1
+Margaret Hassan = 2109 = 1 1
+Pete Gillen = 2110 = 1 1
+Virginia Economic Developers Association = 2111 = 1 1
+Fox News = 2112 = 1 1
+Dennis Baxley = 2113 = 1 1
+Mom = 2114 = 1 1
+punk = 2115 = 1 1
+The = 2116 = 1 1
+Tommy Tuberville = 2117 = 1 1
+Ahmed Al-Chalabi = 2118 = 1 1
+U.N. Foundation = 2119 = 1 1
+NRA = 2120 = 1 1
+Favre = 2121 = 1 1
+Michoacan = 2122 = 1 1
+Western Hemisphere = 2123 = 1 1
+Giambi = 2124 = 1 1
+Hassan Al-Sari = 2125 = 1 1
+judges = 2126 = 1 1
+Condi Rice = 2127 = 1 1
+Harricks = 2128 = 1 1
+KarenPearl = 2129 = 1 1
+Howell = 2130 = 1 1
+Greg Filbeck = 2131 = 1 1
+pistol = 2132 = 1 1
+cruisers = 2133 = 1 1
+Packer = 2134 = 1 1
+lobbyist = 2135 = 1 1
+round = 2136 = 1 1
+burgulars = 2137 = 1 1
+bathroom = 2138 = 1 1
+Jason Giambi = 2139 = 1 1
+MANPADS = 2140 = 1 1
+corporations = 2141 = 1 1
+Gerald Baliles = 2142 = 1 1
+Kofi Annan = 2143 = 1 1
+losses = 2144 = 1 1
+CEO/chair = 2145 = 1 1
+little 12 = 2146 = 1 1
+UMC = 2147 = 1 1
+Texan = 2148 = 1 1
+japanese = 2149 = 1 1
+Vladimir V. Putin = 2150 = 1 1
+Tenn = 2151 = 1 1
+New Jersey = 2152 = 1 1
+Verizon = 2153 = 1 1
+officals = 2154 = 1 1
+Gary Mauser = 2155 = 1 1
+crewmen = 2156 = 1 1
+Libertarian = 2157 = 1 1
+lane = 2158 = 1 1
+Paredes = 2159 = 1 1
+dot.com = 2160 = 1 1
+four = 2161 = 1 1
+Zacatecas = 2162 = 1 1
+atheist = 2163 = 1 1
+Sacerdoti = 2164 = 1 1
+Georgia Bulldogs = 2165 = 1 1
+punk-ass = 2166 = 1 1
+Allied PilotsAssociation = 2167 = 1 1
+Seeking Alpha = 2168 = 1 1
+Assembly = 2169 = 1 1
+couples = 2170 = 1 1
+Kennesaw = 2171 = 1 1
+Food Lion = 2172 = 1 1
+Donald Rumsfeld = 2173 = 1 1
+Bettman = 2174 = 1 1
+NLRB = 2175 = 1 1
+tracy = 2176 = 1 1
+Thurgood Marshall = 2177 = 1 1
+Association for Los Angeles Deputy Sheriffs = 2178 = 1 1
+Ensign = 2179 = 1 1
+Hun = 2180 = 1 1
+guests = 2181 = 1 1
+Luxembourg = 2182 = 1 1
+militias = 2183 = 1 1
+tip = 2184 = 1 1
+conferees = 2185 = 1 1
+MediaGeneral = 2186 = 1 1
+Defense = 2187 = 1 1
+Japanese Combined Fleet = 2188 = 1 1
+Appalachian School of Law = 2189 = 1 1
+Coca-Cola = 2190 = 1 1
+Odell Thurman = 2191 = 1 1
+upstart = 2192 = 1 1
+Zebra Report = 2193 = 1 1
+Party = 2194 = 1 1
+Las Vegas Sands = 2195 = 1 1
+CEO/Chairman = 2196 = 1 1
+Left = 2197 = 1 1
+conglomerates = 2198 = 1 1
+Pacific Fleet = 2199 = 1 1
+Steve Cooley = 2200 = 1 1
+adults = 2201 = 1 1
+farmyard = 2202 = 1 1
+shit = 2203 = 1 1
+Jason White = 2204 = 1 1
+pair = 2205 = 1 1
+Giambis = 2206 = 1 1
+institutions = 2207 = 1 1
+Missouri = 2208 = 1 1
+Franklin D. Roosevelt = 2209 = 1 1
+Barnes and Noble = 2210 = 1 1
+partnerships = 2211 = 1 1
+command = 2212 = 1 1
+Senate Courts Committee = 2213 = 1 1
+mastermind = 2214 = 1 1
+downtown = 2215 = 1 1
+mayor = 2216 = 1 1
+St. Paul = 2217 = 1 1
+BarnseandNoble.com = 2218 = 1 1
+point = 2219 = 1 1
+John K = 2220 = 1 1
+attack = 2221 = 1 1
+Beverly = 2222 = 1 1
+muslims = 2223 = 1 1
+semi-automatic = 2224 = 1 1
+Gourevitch = 2225 = 1 1
+South Carolina = 2226 = 1 1
+John Casteen = 2227 = 1 1
+rounds = 2228 = 1 1
+Telegraph = 2229 = 1 1
+Ahmed Qurei = 2230 = 1 1
+Condoleezza Rice = 2231 = 1 1
+contender = 2232 = 1 1
+Marion Jones = 2233 = 1 1
+Blogophile = 2234 = 1 1
+researchers = 2235 = 1 1
+Kremlin = 2236 = 1 1
+Brady = 2237 = 1 1
+market = 2238 = 1 1
+Mr. = 2239 = 1 1
+Dunblane = 2240 = 1 1
+Richard Fass = 2241 = 1 1
+Development Assistant = 2242 = 1 1
+Melvern = 2243 = 1 1
+Charlie Crist = 2244 = 1 1
+AugustinVasquez Mendoz = 2245 = 1 1
+NVA = 2246 = 1 1
+constituent = 2247 = 1 1
+BusinessWeek = 2248 = 1 1
+Courier = 2249 = 1 1
+Kemp = 2250 = 1 1
+chambers = 2251 = 1 1
+U.S. Naval Reserve = 2252 = 1 1
+Shanghai Composite = 2253 = 1 1
+Immigration Service = 2254 = 1 1
+Barry = 2255 = 1 1
+monument = 2256 = 1 1
+crusaders = 2257 = 1 1
+Teterboro = 2258 = 1 1
+enemy = 2259 = 1 1
+OPPONENT = 2260 = 1 1
+the = 2261 = 1 1
+Continental = 2262 = 1 1
+maniac = 2263 = 1 1
+administrator = 2264 = 1 1
+Carol Loomis = 2265 = 1 1
+districts = 2266 = 1 1
+lady = 2267 = 1 1
+Mu'awiyabin Abi Sufyan = 2268 = 1 1
