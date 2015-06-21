@@ -302,7 +302,7 @@ public class IldaInput {
 				Node childN = mentionList.item(j);
 				if (childN.getNodeName().equals(TagTypes.ENTMEN)) {
 					Node headNode = XmlHelper.getFirstChildByTagName(childN,
-							TagTypes.HEAD);
+							TagTypes.EXTENT);
 					Node entity = XmlHelper.getFirstChildByTagName(headNode,
 							TagTypes.CHARSEQ);
 					String head = entity.getTextContent();
